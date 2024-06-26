@@ -1,5 +1,6 @@
 # Pop-Up
 Pop-Up feature using HTML, CSS and JavaScript
+*Working on image not loading on upload..
 
 ![submit-button-screenshot](https://github.com/daleskinz/Pop-Up/assets/141495352/4163cb9f-3cb2-4ac0-8baf-11814059d955)
 
